@@ -15,7 +15,7 @@ operation ((front + 1) % SIZE).
 8. End
 
 ## Program:
-
+```
 /*
 Program to delete three elements from the filled circular queue
 Developed by: SANJAY K
@@ -51,7 +51,7 @@ front=(front+1)%SIZE;
 return element; 
 } 
 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/07242337-589a-4ff6-8f53-7c739f8b29fc)
