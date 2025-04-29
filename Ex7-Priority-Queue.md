@@ -11,7 +11,7 @@ To formulate the C code to display the elements of the priority queue after inse
 5. After printing all elements, print a newline for formatting. 
 6. End
 ## Program:
-
+```
 /*
 Program to o display the elements of the priority queue after insertion and deletion operation
 Developed by: SANJAY K
@@ -30,7 +30,7 @@ printf("%d ",array[i]);
 printf("\n"); 
 }
 
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/89b1bc1f-089f-414d-a8de-2b1ca09f4fd9)
